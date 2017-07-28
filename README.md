@@ -1,2 +1,2 @@
-通过python小项目体验python之美
+python小项目练习.
 

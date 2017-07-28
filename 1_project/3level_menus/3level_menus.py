@@ -4,7 +4,10 @@
 # @Author  : chenshoubiao
 # @File    : 3level_menus.py
 # @Soft    : python3
-#实现三级菜单的功能
+"""
+实现三级菜单的功能
+可依次选择进入各子菜单
+"""
 
 data = {
     '广东': {

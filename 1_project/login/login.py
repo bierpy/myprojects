@@ -4,6 +4,15 @@
 # @Author  : chenshoubiao
 # @File    : login.py
 # @Soft    : python3
+"""
+编写登陆接口
+输入用户名密码
+认证成功后显示欢迎信息
+输错三次锁定
+"""
+
+
+
 import os
 
 # 存放用户账号密码文件
